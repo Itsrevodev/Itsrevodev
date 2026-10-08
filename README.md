@@ -1,16 +1,17 @@
-## Hi there 👋
+Minecraft Developer
 
-<!--
-**Itsrevodev/Itsrevodev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Server Developer | Paper / Spigot | Configuration Expert
 
-Here are some ideas to get you started:
+🛠️ 1+ Year of Experience ⚡ Specializing in Minecraft server development, configuration, optimization, and customization.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Skills
+
+🔧 Paper / Spigot Server Development
+⚙️ Server Configuration & Setup
+📦 Plugin Configuration
+🛠️ Custom Server Features
+🚀 Server Optimization
+🐛 Bug Fixing & Troubleshooting
+🔌 Plugin Management & Integration
+🎮 Minecraft Java Edition
+Focused on building stable, optimized, and unique Minecraft server experiences.
