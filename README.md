@@ -4,8 +4,7 @@ Server Developer | Paper / Spigot | Configuration Expert
 
 🛠️ 1+ Year of Experience ⚡ Specializing in Minecraft server development, configuration, optimization, and customization.
 
-Skills
-
++#Skills:
 🔧 Paper / Spigot Server Development
 ⚙️ Server Configuration & Setup
 📦 Plugin Configuration
