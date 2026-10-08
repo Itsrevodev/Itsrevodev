@@ -15,3 +15,14 @@ Skills:
 🔌 Plugin Management & Integration
 🎮 Minecraft Java Edition
 Focused on building stable, optimized, and unique Minecraft server experiences.
+
+🌐 Portfolio: https://itsrevodev.github.io/Portfolio/ 
+
+🎮 Specialization
+
+Skyblock • Lifesteal • Survival
+
+📩 Contact
+
+Discord: its_revo_yt 
+Gmail: itsrevoyt@gmail.com
